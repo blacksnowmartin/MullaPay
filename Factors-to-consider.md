@@ -1,4 +1,4 @@
-
+FACTORS TO CONSIDER
 1. User Interface and Experience:
 Develop a user-friendly interface accessible via mobile devices and web browsers.
 Design intuitive features for initiating payments, transferring funds between mobile money accounts and cryptocurrency wallets, and managing transactions.
