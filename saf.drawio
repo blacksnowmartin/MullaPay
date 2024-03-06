@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T20:28:38.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TaU5c_w_SgUzsY1DKeCA" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T20:29:51.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5QQwEJmg0z17bgGU2FE7" version="24.0.1" type="github">
   <diagram name="Page-1" id="9XUsnjwGaCakIusq-Zvh">
-    <mxGraphModel dx="933" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1867" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLV1xjN56b3U8wXnX9Ma-14" target="RPdVKIkfysECeG3BsUjT-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="1310" />
+              <mxPoint x="740" y="1650" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-14" value="Loans and Savings" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="1270" width="120" height="80" as="geometry" />
@@ -167,7 +172,7 @@
           <mxGeometry x="780" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-27" value="KCB M-Pesa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1610" width="120" height="80" as="geometry" />
+          <mxGeometry x="780" y="1600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-28" value="Send to MShwari" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="860" width="120" height="80" as="geometry" />
