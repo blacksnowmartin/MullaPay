@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T20:06:05.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6sJ5kZNJGZWFggoSkDb2" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T20:11:00.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3tRWMUCsCUSbOmFt4PWu" version="24.0.1" type="github">
   <diagram name="Page-1" id="9XUsnjwGaCakIusq-Zvh">
     <mxGraphModel dx="1120" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,10 +19,10 @@
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iLV1xjN56b3U8wXnX9Ma-2" target="iLV1xjN56b3U8wXnX9Ma-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iLV1xjN56b3U8wXnX9Ma-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="iLV1xjN56b3U8wXnX9Ma-2" target="iLV1xjN56b3U8wXnX9Ma-13" edge="1">
+        <mxCell id="iLV1xjN56b3U8wXnX9Ma-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iLV1xjN56b3U8wXnX9Ma-2" target="iLV1xjN56b3U8wXnX9Ma-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iLV1xjN56b3U8wXnX9Ma-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iLV1xjN56b3U8wXnX9Ma-2" target="iLV1xjN56b3U8wXnX9Ma-16" edge="1">
+        <mxCell id="RPdVKIkfysECeG3BsUjT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLV1xjN56b3U8wXnX9Ma-2" target="iLV1xjN56b3U8wXnX9Ma-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-2" value="M-PESA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -53,19 +53,19 @@
           <mxGeometry x="580" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-9" value="Withdraw Cash" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="505" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-10" value="Lipa na M-PESA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="740" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-11" value="M-Banking Services" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-13" value="Buy Airtime" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="540" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-14" value="Loans and Savings" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="830" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLV1xjN56b3U8wXnX9Ma-15" target="RPdVKIkfysECeG3BsUjT-1">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="580" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-16" value="My Account" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="850" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="1100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iLV1xjN56b3U8wXnX9Ma-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iLV1xjN56b3U8wXnX9Ma-2" target="iLV1xjN56b3U8wXnX9Ma-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -94,8 +94,20 @@
         <mxCell id="jO9whwv2kClf-yqsnF8u-4" value="Selfcare" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="-420" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="RPdVKIkfysECeG3BsUjT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPdVKIkfysECeG3BsUjT-1" target="RPdVKIkfysECeG3BsUjT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-1" value="Enter phone no." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPdVKIkfysECeG3BsUjT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPdVKIkfysECeG3BsUjT-3" target="RPdVKIkfysECeG3BsUjT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RPdVKIkfysECeG3BsUjT-3" value="Enter amount" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPdVKIkfysECeG3BsUjT-4" value="Enter M-Pesa PIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
