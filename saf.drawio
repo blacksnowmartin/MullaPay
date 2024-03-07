@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T07:02:38.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dFnwgnOggJVW6Sb0eNsK" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T07:05:37.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PN7PqFm7sgcXJQjiAqss" version="24.0.1" type="github">
   <diagram name="Page-1" id="9XUsnjwGaCakIusq-Zvh">
     <mxGraphModel dx="1867" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,31 +176,37 @@
           <mxGeometry x="800" y="710" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-25" value="MShwari" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1330" width="120" height="80" as="geometry" />
+          <mxGeometry x="780" y="1590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-27" value="KCB M-Pesa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="2120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-28" value="Send to MShwari" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1050" width="120" height="80" as="geometry" />
+          <mxGeometry x="1020" y="1180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-29" value="Check Balance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1640" width="120" height="80" as="geometry" />
+          <mxGeometry x="1020" y="1753" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-30" value="Mini Statement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1780" width="120" height="80" as="geometry" />
+          <mxGeometry x="1020" y="1940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-31" value="Lock Savings Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1300" width="120" height="80" as="geometry" />
+          <mxGeometry x="1020" y="1440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-32" value="Loan @ 9% for 30 days" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1480" width="120" height="80" as="geometry" />
+          <mxGeometry x="1020" y="1580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-33" value="Withdraw from MShwari" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1150" width="120" height="80" as="geometry" />
+          <mxGeometry x="1020" y="1310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-42" value="My Phone" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RPdVKIkfysECeG3BsUjT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPdVKIkfysECeG3BsUjT-43" target="RPdVKIkfysECeG3BsUjT-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RPdVKIkfysECeG3BsUjT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPdVKIkfysECeG3BsUjT-43" target="RPdVKIkfysECeG3BsUjT-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-43" value="Other Phone" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="890" width="120" height="80" as="geometry" />
@@ -216,6 +222,12 @@
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-52" value="Enter M-Pesa PIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RPdVKIkfysECeG3BsUjT-54" value="Enter the phone no." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RPdVKIkfysECeG3BsUjT-55" value="Search From SIM Contacts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="850" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
