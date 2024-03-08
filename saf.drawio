@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T11:14:34.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="i1ahpzy-lJs_MX3awiuu" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T11:15:21.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="n4vqE8n0VSxyx9B6avxU" version="24.0.1" type="github">
   <diagram name="Page-1" id="9XUsnjwGaCakIusq-Zvh">
     <mxGraphModel dx="1120" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,6 +214,9 @@
         <mxCell id="RPdVKIkfysECeG3BsUjT-33" value="Withdraw from MShwari" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="1310" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jvomU4i9vhobp2Hx7cu1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RPdVKIkfysECeG3BsUjT-42" target="RPdVKIkfysECeG3BsUjT-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-42" value="My Phone" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="710" width="120" height="80" as="geometry" />
         </mxCell>
@@ -225,6 +228,9 @@
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-43" value="Other Phone" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jvomU4i9vhobp2Hx7cu1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RPdVKIkfysECeG3BsUjT-45" target="RPdVKIkfysECeG3BsUjT-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RPdVKIkfysECeG3BsUjT-45" value="Enter amount" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1240" y="720" width="120" height="60" as="geometry" />
