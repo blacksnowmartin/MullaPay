@@ -25,4 +25,4 @@ For the **Community Savings and Loans Platform**, here's a breakdown of the tech
 - **Day 16-18:** Add additional features like notifications or user profiles.
 - **Day 19-20:** Prepare documentation and finalize the project for presentation or hackathons.
 
-This schedule allows you to build a functional MVP and gives you time to refine it based on feedback. How does that sound?
+## ❄️Blacksnow Martin🏔️
